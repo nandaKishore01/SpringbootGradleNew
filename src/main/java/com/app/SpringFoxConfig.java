@@ -13,6 +13,7 @@ import springfox.documentation.swagger2.annotations.EnableSwagger2;
 @EnableSwagger2
 public class SpringFoxConfig {                                    
     
+	//For Creating Docket Bean
     @Bean
     public Docket api() {                
         return new Docket(DocumentationType.SWAGGER_2)
