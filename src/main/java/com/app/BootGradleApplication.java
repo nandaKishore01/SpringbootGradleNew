@@ -11,6 +11,6 @@ public class BootGradleApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(BootGradleApplication.class, args);
 		System.out.println("============1234567891011============");
-		System.out.println("=============11 commit======");
+		System.out.println("=============12 commit======");
 	}
 }
