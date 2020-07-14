@@ -10,6 +10,6 @@ public class BootGradleApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BootGradleApplication.class, args);
-		System.out.println("============123456789============");
+		System.out.println("============12345678910============");
 	}
 }
